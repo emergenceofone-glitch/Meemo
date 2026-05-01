@@ -1,0 +1,5 @@
+{
+  "name": "Mimo Fullstack App",
+  "description": "A full-stack application with React, Express, Tailwind CSS, and Firebase integration.",
+  "requestFramePermissions": []
+}
